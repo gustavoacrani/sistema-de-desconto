@@ -41,7 +41,7 @@ git clone https://github.com/gustavoacrani/sistema-desconto.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd sistema-desconto-progressivo
+cd sistema-desconto
 ```
 
 3. Execute o programa:
