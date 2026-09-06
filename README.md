@@ -35,7 +35,7 @@ Após definir a porcentagem, o programa calcula:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/gustavoacrani/sistema-desconto-progressivo.git
+git clone https://github.com/gustavoacrani/sistema-desconto.git
 ```
 
 2. Entre na pasta do projeto:
@@ -53,9 +53,6 @@ python app.py
 ## 💻 Exemplo de uso
 
 ```text
-==============================
-🛍️ Sistema de Desconto Progressivo
-==============================
 
 Digite o valor total da compra (R$): 250
 
